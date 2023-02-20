@@ -18,6 +18,14 @@
 		{
 			"Name": "ExampleCustomDataInterface",
 			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "NaniteDisplacedMesh",
+			"Enabled": true
 		}
 	]
 }
